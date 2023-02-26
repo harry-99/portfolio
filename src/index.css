@@ -193,6 +193,7 @@ code {
   row-gap: 0;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   grid-auto-rows: max-content;
+  padding-bottom: 100px;
 }
 
 .skill-card{
@@ -262,6 +263,7 @@ code {
   max-width: 1350px;
   padding: 20px;
   display: flex;
+  padding-bottom: 100px;
 }
 .about p{
   margin: 5px 0;
