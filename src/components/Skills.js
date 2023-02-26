@@ -5,14 +5,9 @@ import { BsFillBootstrapFill } from "react-icons/bs";
 import { FaReact, FaNodeJs } from "react-icons/fa";
 import {
   SiRedux,
-  SiSocketdotio,
-  SiJquery,
-  SiElectron,
   SiExpress,
-  SiHandlebarsdotjs,
   SiMongodb,
   SiPython,
-  SiAdobepremierepro,
   SiGithub,
   SiAngular,
   SiMysql,
