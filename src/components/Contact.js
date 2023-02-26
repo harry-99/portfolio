@@ -27,6 +27,7 @@ export default function Contact() {
 
   return (
     <div className="contact">
+      <h1>Reach out to me...</h1>
       <form ref={form} onSubmit={sendEmail}>
         <input type="text" name="user_name" placeholder="Name." required />
         <input type="email" name="user_email" placeholder="Email." required />
