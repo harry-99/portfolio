@@ -25,7 +25,7 @@ export default function About() {
         </p>
         <p>
           When free I prefer to explore new places taking unexplored ways just
-          to seek advanture😂
+          to seek adventure😂
         </p>
         <p>
           Coming back to my curriculumn, I garduated in 2022, from NIT Durgapur.
@@ -34,7 +34,7 @@ export default function About() {
         </p>
         <p>
           And now along with the job that I am doing I am looking for better
-          oppertunities to learn, develop and grow mutually with my firm or
+          oppertunities to learn, develop and grow mutually with the firm or
           client
         </p>
         {/* <p>

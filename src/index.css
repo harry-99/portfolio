@@ -134,7 +134,12 @@ code {
   bottom: 10px;
   margin: auto;
   color: white;
+  opacity: 0.5;
 }
+
+/* .navigation:hover{
+  opacity: 1;
+} */
 
 .navigation ul{
   padding: 10px;
