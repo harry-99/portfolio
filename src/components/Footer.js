@@ -15,7 +15,7 @@ function Footer() {
       </div>
       <div className="footer-email">
         <MdEmail />
-        <p>hariom.ravi@gmail.com</p>
+        <p>hariom.ravi786@gmail.com</p>
       </div>
     </div>
   );
